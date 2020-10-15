@@ -3,4 +3,4 @@
 
 # USEFUL PYTHON CODES
 
-Here we have some simple codes about python some programming problems solutions
+Here we have some simple codes about python some programming problems solutions.
